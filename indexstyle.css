@@ -1,0 +1,28 @@
+h1{
+    color: #fff;
+    font-family:"Helvetica";
+}
+
+article{
+    color : #fff;
+    font-family :'Franklin Gothic Medium';
+    font-size :medium ;
+}
+
+footer{
+    color :yellowgreen;
+}
+
+nav{
+    display: table;
+    margin : 0 auto;
+    text-align : center ;
+}
+
+nav a{
+    float: left;
+    text-decoration : none ;
+    padding : 0 30px;
+    color : #fff;
+    display : block ;
+    }
